@@ -1,0 +1,10 @@
+cd "D:\work\Kill the Brave_"
+echo "* text=auto" > .gitattributes
+echo "*.cs text eol=lf" >> .gitattributes
+echo "*.unity text eol=lf" >> .gitattributes
+echo "*.prefab text eol=lf" >> .gitattributes
+echo "*.anim text eol=lf" >> .gitattributes
+echo "*.controller text eol=lf" >> .gitattributes
+echo "*.shader text eol=lf" >> .gitattributes
+echo "*.json text eol=lf" >> .gitattributes
+echo "*.txt text eol=lf" >> .gitattributes

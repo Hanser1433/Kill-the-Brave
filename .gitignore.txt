@@ -1,0 +1,11 @@
+# Visual Studio临时文件
+.vs/
+*.userprefs
+*.vsidx
+*.suo
+*.user
+*.users
+echo "/.vs/" >> .gitignore
+echo "/Library/" >> .gitignore
+echo "/Temp/" >> .gitignore
+echo "/Obj/" >> .gitignore
